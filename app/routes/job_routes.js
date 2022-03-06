@@ -31,6 +31,7 @@ const router = express.Router()
 // GET /destinations practice
 router.get('/jobs', (req, res, next) => {
   Job.find()
+    .populate('owner') // this will turn all the owner ids into owner model objects
     // respond with status 200 and JSON of the destinations
     .then((jobs) => res.status(200).json({ jobs: jobs }))
     // if an error occurs, pass it to the handler
