@@ -24,9 +24,9 @@ MVP User Stories
 
 ## WireFrame
 Honest Installs Wireframe 
-![**Honest Installs ERD**](public/readmephotos/ERD.png)
-![**Honest Installs Schema**](public/readmephotos/schema.png)
-![**Honest Installs Wireframe**](public/readmephotos/wireframe.png)
+![**Honest Installs ERD**](./lib/public/readmephotos/ERD.png)
+![**Honest Installs Schema**](./lib/public/readmephotos/schema.png)
+![**Honest Installs Wireframe**](./lib/public/readmephotos/wireframe.png)
 
 
  1. Client must be able to sign-up successfully
