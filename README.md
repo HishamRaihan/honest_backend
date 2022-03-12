@@ -1,4 +1,4 @@
-[![Honest Installs](public/readmephotos/wtc.png)](https://hishamraihan.github.io/honest_frontend/) 
+[![Honest Installs](images/wtc.png)](https://hishamraihan.github.io/honest_frontend/) 
 # Honest Installs Job Board
 ---
 https://hishamraihan.github.io/honest_frontend/
@@ -24,9 +24,9 @@ MVP User Stories
 
 ## WireFrame
 Honest Installs Wireframe 
-![**Honest Installs ERD**](./lib/public/readmephotos/ERD.png)
-![**Honest Installs Schema**](./lib/public/readmephotos/schema.png)
-![**Honest Installs Wireframe**](./lib/public/readmephotos/wireframe.png)
+![**Honest Installs ERD**](images/ERD.png)
+![**Honest Installs Schema**](images/schema.png)
+![**Honest Installs Wireframe**](images/wireframe.png)
 
 
  1. Client must be able to sign-up successfully
