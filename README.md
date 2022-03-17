@@ -1,7 +1,22 @@
 [![Honest Installs](images/wtc.png)](https://hishamraihan.github.io/honest_frontend/) 
 # Honest Installs Job Board
----
+--
+# Deployed Site
 https://hishamraihan.github.io/honest_frontend/
+https://dashboard.heroku.com/apps/dry-tundra-83070
+--
+# Repo Links
+https://github.com/HishamRaihan/honest_backend
+https://github.com/HishamRaihan/honest_frontend
+
+## npm packages used 
+## start with npm install and the following:
+--
+- react-bootstrap-icons
+- timeago.js
+- react-responsive-carousel
+- react-currency-input-field
+---
 ## The BackStory
 - This project has allowed us to incorporate everything we have learned in this bootcamp up until now.
 - We used JavaScript and React for the front-end while using Express Mongo/Mongoose  curl scirpts for the back-end.
