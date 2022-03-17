@@ -1,13 +1,19 @@
-[![Honest Installs](images/wtc.png)](https://hishamraihan.github.io/honest_frontend/) 
+[![Honest Installs](src/components/assets/white_squeege.png)](https://hishamraihan.github.io/honest_frontend/) 
 # Honest Installs Job Board
---
+---
 # Deployed Site
-https://hishamraihan.github.io/honest_frontend/
-https://dashboard.heroku.com/apps/dry-tundra-83070
---
+- https://hishamraihan.github.io/honest_frontend/
+- https://dashboard.heroku.com/apps/dry-tundra-83070
+
 # Repo Links
-https://github.com/HishamRaihan/honest_backend
-https://github.com/HishamRaihan/honest_frontend
+- https://github.com/HishamRaihan/honest_backend
+- https://github.com/HishamRaihan/honest_frontend
+
+## The BackStory
+- This project has allowed us to incorporate everything we have learned in this bootcamp up until now.
+- We used JavaScript and React for the front-end while using Express Mongo/Mongoose  curl scirpts for the back-end.
+- To me it was much more than a project - it was a big learning experience.
+- Full Stack with custome API.
 
 ## npm packages used 
 ## start with npm install and the following:
@@ -16,12 +22,6 @@ https://github.com/HishamRaihan/honest_frontend
 - timeago.js
 - react-responsive-carousel
 - react-currency-input-field
----
-## The BackStory
-- This project has allowed us to incorporate everything we have learned in this bootcamp up until now.
-- We used JavaScript and React for the front-end while using Express Mongo/Mongoose  curl scirpts for the back-end.
-- To me it was much more than a project - it was a big learning experience.
-- Full Stack with custome API.
 ---
 ## Instructions
 MVP User Stories
@@ -39,9 +39,9 @@ MVP User Stories
 
 ## WireFrame
 Honest Installs Wireframe 
-![**Honest Installs ERD**](images/ERD.png)
-![**Honest Installs Schema**](images/schema.png)
-![**Honest Installs Wireframe**](images/wireframe.png)
+![**Honest Installs ERD**](src/components/assets/ERD.png)
+![**Honest Installs Schema**](src/components/assets/schema.png)
+![**Honest Installs Wireframe**](src/components/assets/wireframe.png)
 
 
  1. Client must be able to sign-up successfully
@@ -66,3 +66,11 @@ Honest Installs Wireframe
 
  6. Client will be able to delete a post
  - once deleted client should not be able to see it them when fetching the job post.
+
+
+ # Unsolved Problems to be fixed in V2
+ 1. will have image upload of company logos
+ 2. will allow users to communicate with eachother
+ 3. will add if job had been picked up or not by install team
+ 4. will make the UI transition smoother 
+ 5. all card will have the same look and style
